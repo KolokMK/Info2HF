@@ -27,8 +27,8 @@ Az alkalmazás a következő funkciókat biztosítja:
 ## Adatbázis séma
 Az adatbáziban a következő entitásokat és attribútumokat tároljuk:
 * Táborhely: név, tályegység, koordináták, fentartó, elérhetőség, rövid leírás, képek
-* Csapat: név, közösség (például cserkészet, egyházközség), vezető neve, vezető telefonszáma, csapatlétszáma
-* Táborozás: Csapat, táborhely, táborozás kezdete, táborozás vége
+* Csapat: név, közösség (például cserkészet, egyházközség), vezető neve, vezető telefonszáma
+* Táborozás: Csapat, táborhely, táborozás kezdete, táborozás vége, létszám
 
 Név: Kolok Miklós Keve
 
